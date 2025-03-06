@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdventureGame_TanyanMars/1.0.0": {
+        "runtime": {
+          "AdventureGame_TanyanMars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventureGame_TanyanMars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

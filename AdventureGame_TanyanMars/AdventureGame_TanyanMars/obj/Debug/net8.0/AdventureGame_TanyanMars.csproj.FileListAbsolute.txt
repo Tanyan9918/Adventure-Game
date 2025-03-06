@@ -1,0 +1,14 @@
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\bin\Debug\net8.0\AdventureGame_TanyanMars.exe
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\bin\Debug\net8.0\AdventureGame_TanyanMars.deps.json
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\bin\Debug\net8.0\AdventureGame_TanyanMars.runtimeconfig.json
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\bin\Debug\net8.0\AdventureGame_TanyanMars.dll
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\bin\Debug\net8.0\AdventureGame_TanyanMars.pdb
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.AssemblyInfo.cs
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.dll
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\refint\AdventureGame_TanyanMars.dll
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.pdb
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\AdventureGame_TanyanMars.genruntimeconfig.cache
+C:\Users\super\source\repos\AdventureGame_TanyanMars\AdventureGame_TanyanMars\obj\Debug\net8.0\ref\AdventureGame_TanyanMars.dll
